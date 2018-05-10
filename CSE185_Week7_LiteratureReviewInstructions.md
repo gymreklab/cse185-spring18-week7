@@ -41,6 +41,19 @@ Use the Google doc from your group to help you write your review (but put things
 Please follow the format below. If you use other articles (perhaps to look up previous work) add a citations section at the end. For the summary section, do not simply paraphrase the paper’s abstract - try to summarize based on your understanding of the entire article.
 
 
+#### Heading/citation (1 pt)
 
+* Your name
+* You should at least include one citation to other work.
 
-TODO make this a github classroom link
+#### Summary (1-2 paragraphs, 10 pts total)
+
+* **Goal** (2 pts): state the central question or objective of this study
+* **Approach** (4 pts): give a brief overview of how the authors tried to answer this question (what was the overall experimental approach or what were the key experiments - you do not need to go into materials and methods-level details, just state was being tested and how)
+* **Findings** (4 pts): summarize the results of the main or most important experiments in the study, and interpret them in terms of the goal.
+
+#### Tutorial Comparison (1-2 paragraphs, 9 pts total)
+
+* **Component** (2 pts): Which part of the article’s data and/or analysis does our in-class tutorial correspond to?
+* **Approach (3 pts): Compare what you did in the tutorial with the corresponding analysis from the article. How are the methods and software different?
+* **Findings (4 pts): How do your results from the tutorial compare with the corresponding results from the article? If they are different, what do you think is the reason? In some cases we might have been asking slightly different questions than the article. If so you can mention that in your review.
