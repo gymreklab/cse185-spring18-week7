@@ -1,10 +1,10 @@
-# CSE185 Spring 2018 Literature Review Guidlines (Wekk 7)
+# CSE185 Spring 2018 Literature Review Guidlines (Week 7)
 
 For this assignment, you will read the primary research that one of the class labs is based on, then focus in on one particular section of the paper and explain it to your classmates.
 
 Instead of a lab report for this week, you will be writing a one page review of the article demonstrating your understanding of the paper and how it compares to what we did in class. As usual, this assignment will be due at 11am the next Tuesday (May 22). The written review will be worth the same as a lab report (all lab reports together are worth 60% of your grade), and you will also have the opportunity for a lab notebook point (the 10 questions you bring to class) and attendance points.
 
-For this assignment, you will be editing a Google doc for your group, which will consist of at most 5 people as described in more detail below.
+For this assignment, you will be editing a Google doc for your group, which will consist of at most 5 people as described in more detail below. In the end, each member will write their own individual review based on the shared effort of the group.
 
 ## Monday, May 14
 
@@ -36,7 +36,7 @@ In the same group as Tuesday, you will:
 * If there is any more time, if the paper involved any tools not already installed for the class on `ieng6`, choose one and figure out how to install it on `ieng6`.
 
 ## At home
-Use the Google doc from your group to help you write your review (but put things in your own words). The review should not exceed one single-spaced (12 pt font) page (if you submit a PDF) or a comparable length if you submit a markdown file. Submit your report by adding to Github with the filename CSE185_Week7_LiteratureReview_Submission.
+Use the Google doc from your group to help you write your review (but put things in your own words). The review should not exceed one single-spaced (12 pt font) page (if you submit a PDF) or a comparable length if you submit a markdown file. Submit your report by adding to Github with the filename CSE185_Week7_LiteratureReview_Submission. Each member of the group should write an **idividual review** based on the shared effort of the group.
 
 Please follow the format below. If you use other articles (perhaps to look up previous work) add a citations section at the end. For the summary section, do not simply paraphrase the paper’s abstract - try to summarize based on your understanding of the entire article.
 
@@ -54,6 +54,5 @@ Please follow the format below. If you use other articles (perhaps to look up pr
 
 #### Tutorial Comparison (1-2 paragraphs, 9 pts total)
 
-* **Component** (2 pts): Which part of the article’s data and/or analysis does our in-class tutorial correspond to?
-* **Approach (3 pts): Compare what you did in the tutorial with the corresponding analysis from the article. How are the methods and software different?
-* **Findings (4 pts): How do your results from the tutorial compare with the corresponding results from the article? If they are different, what do you think is the reason? In some cases we might have been asking slightly different questions than the article. If so you can mention that in your review.
+* **Component & Approach** (5 pts): Which part of the article’s data and/or analysis does our in-class tutorial correspond to? Compare what you did in the tutorial with the corresponding analysis from the article. How are the methods and software different?
+* **Findings** (4 pts): How do your results from the tutorial compare with the corresponding results from the article? If they are different, what do you think is the reason? In some cases we might have been asking slightly different questions than the article. If so you can mention that in your review.
