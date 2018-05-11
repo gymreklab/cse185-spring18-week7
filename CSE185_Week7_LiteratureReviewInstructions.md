@@ -36,7 +36,7 @@ In the same group as Tuesday, you will:
 * If there is any more time, if the paper involved any tools not already installed for the class on `ieng6`, choose one and figure out how to install it on `ieng6`.
 
 ## At home
-Use the Google doc from your group to help you write your review (but put things in your own words). The review should not exceed one single-spaced (12 pt font) page (if you submit a PDF) or a comparable length if you submit a markdown file. Submit your report by adding to Github with the filename CSE185_Week7_LiteratureReview_Submission. Each member of the group should write an **idividual review** based on the shared effort of the group.
+Use the Google doc from your group to help you write an individual review (but put things in your own words). The review should not exceed one single-spaced (12 pt font) page (if you submit a PDF) or a comparable length if you submit a markdown file. Submit your report by adding to Github with the filename CSE185_Week7_LiteratureReview_Submission. Each member of the group should write an **individual review** based on the shared effort of the group.
 
 Please follow the format below. If you use other articles (perhaps to look up previous work) add a citations section at the end. For the summary section, do not simply paraphrase the paper’s abstract - try to summarize based on your understanding of the entire article.
 
